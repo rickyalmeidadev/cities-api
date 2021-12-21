@@ -1,7 +1,7 @@
 {
   "name": "cities-api",
   "version": "1.0.0",
-  "description": "An simple API to get cities ID",
+  "description": "A simple API to get cities ID",
   "main": "src/index.js",
   "author": "Ricky Almeida",
   "license": "MIT",
