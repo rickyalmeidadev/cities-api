@@ -1,0 +1,15 @@
+{
+  "name": "cities-api",
+  "version": "1.0.0",
+  "description": "An simple API to get cities ID",
+  "main": "src/index.js",
+  "author": "Ricky Almeida",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  }
+}
